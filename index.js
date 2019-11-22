@@ -6,4 +6,6 @@ app.get('/', (req, res) => {
     res.status(200).send('Hello EBS');
 })
 
-app.listen(3000, () => { console.log('Server is up and running') });
+app.listen(8080, () => {
+    console.log('Server is up and running')
+});
