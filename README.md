@@ -1,3 +1,3 @@
 # express-docker-mock
 
-##### This is a mock up repo with Express server for deployment testing purpose.
+#### This repository has been linked with CircleCI for testing and with Code Pipeline for automated deployment using EBS.
